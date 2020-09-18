@@ -95,6 +95,7 @@ B2B Organization Servicing the First Nations Gaming Industry
 
 **Web Developer and SysAdmin** @ [POP Montréal](https://popmontreal.com)  
 Non Profit Music Festival in Montréal, Quebec
+* Provide network and system support for the POP Montréal office
 * Worked with POP Montréal to redesign their website
 * Built and maintained a high complexity Drupal system that integrated with multiple external partners
 * Performed performance tuning on the database and web front end to accommodate high volumes
