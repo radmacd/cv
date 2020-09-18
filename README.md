@@ -23,7 +23,7 @@ _Network and solutions architect based in Québec, Canada_
 
 ## 🎓 Education
 
-* Bachelor of Science, Computer Science - **University of Regina**  
+* **Bachelor of Science, Computer Science** - _University of Regina_  
 * Cisco SD-WAN Operation and Deployment (ENSDW) v1.0  
 * Checkpoint VPN - 1 / Firewall-1 NG Management 1 & 2  
 * Cisco ICND [Interconnecting Cisco Network Devices]  
