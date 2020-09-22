@@ -47,7 +47,7 @@ ITIL Foundations
 
 ## 👨‍💻 Experience
 
-**Head of Networks and Solutions** @ Columba Systems _(2019 - 2020)_  
+**Head of Networks and Solutions** @ Columba Systems _(2019 - Present)_  
 IT Services Organization
 * Designed multi tenant Cisco SD-WAN solution providing isolation and controlled resource sharing
 * Designed and deployed a globally load balanced, containerized, open source web presentation platform
