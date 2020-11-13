@@ -57,7 +57,7 @@ IT Services Organization
 Marketing and IT Services
 * Designed, deployed and maintained a global private content distribution network leveraging BGP AnyCast
 * Designed, deployed and maintained a global F5 BigIP ADC solution
-* Designed multiple highly available Cisco Nexus data centre networks across the globe, including disaster recovery sites 
+* Designed multiple highly available Cisco Nexus data centre networks across the globe, including disaster recovery sites
 * Worked with the Infrastructure team to design and deploy on-prem OpenStack private cloud across multiple geographic regions
 * Migrated WAN to Cisco iWAN in conjunction with the Network Operations team
 
