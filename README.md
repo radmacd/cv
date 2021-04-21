@@ -30,7 +30,8 @@ _Network and solutions architect based in Québec, Canada_
 
 ## ✅ Certifications
 
-ITIL Foundations
+* ITIL Foundations
+* Google Cloud Certified - Associate Cloud Engineer
 
 ## 💬 Languages
 
@@ -103,4 +104,4 @@ Non Profit Music Festival in Montréal, Quebec
 
 ## 🤝 Volunteer Work
 
-**Board Member POP Montréal** _(2016 - Present)_
+**Board Member POP Montréal** _(2016 - 2020)_
