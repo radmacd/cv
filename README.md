@@ -33,6 +33,7 @@ _Network and solutions architect based in Québec, Canada_
 * ITIL Foundations
 * Google Cloud Certified - Associate Cloud Engineer
 * Google Cloud Certified - Professional Cloud Architect
+* CKA - Certified Kubernetes Administrator
 
 ## 💬 Languages
 
